@@ -1,8 +1,12 @@
 # Table of contents
 
+## INTRO
+
+* [Hello, World!](README.md)
+
 ## CATEGORY
 
-* [Java](README.md)
+* [Java](<README (1).md>)
   * [Functional Interface](category/java/functional-interface.md)
   * [Overloading & Overriding](category/java/overloading-and-overriding.md)
   * [POI Excel 인쇄 영역, 페이지 나누기 설정](category/java/poi-excel.md)
