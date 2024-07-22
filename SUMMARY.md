@@ -1,8 +1,6 @@
 # Table of contents
 
-## INTRO
-
-* [Hello, World!](README.md)
+* [INTRO](README.md)
 
 ## CATEGORY
 
@@ -38,3 +36,8 @@
   * [Chapter 14. Lambda & Stream](book/undefined-1/chapter-14.-lambda-and-stream.md)
 * [함께 자라기](book/undefined-2/README.md)
   * [자라기](book/undefined-2/undefined.md)
+
+## STUDY
+
+* [99클럽](study/99/README.md)
+  * [99클럽 코테 스터디 1일차 TIL - n^2 배열 자르기](study/99/99-1-til-n-2.md)
