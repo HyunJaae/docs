@@ -69,7 +69,7 @@ fun sum(a: Int, b: Int) = a + b
 4. 반환 타입을 지정하고 반환 값이 없으면 에러가 발생한다.
 5. <mark style="background-color:green;">매개 변수는 상수 값</mark>이며 타입을 선언해야 한다.
 6. 인수에 이름을 지정할 수 있다.
-7. 인수의 기본 값을 설정할 수 있다. (`name: String = "Rover"`)
+7. 매개변수의 기본 값을 설정할 수 있다. (`name: String = "Rover"`)
 8. 함수 본문을 표현식으로도 표현할 수 있다.
 
 ### <mark style="color:purple;">3. 클래스와 인스턴스 생성</mark>
