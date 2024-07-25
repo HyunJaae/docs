@@ -15,5 +15,5 @@
 * **Framework :** SpringBoot
 * **Database :** MySQL
 * **Server :** AWS, NCP
-* **ETC :** Spring Data JPA, QueryDSL
+* **ETC :** JPA, QueryDSL, Git
 
