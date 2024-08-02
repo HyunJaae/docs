@@ -8,10 +8,6 @@ description: 99클럽 코테 스터디 12일차 TIL 입니다.
 
 [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/42747)
 
-#### 성능 요약
-
-메모리: 78 MB, 시간: 0.93 ms
-
 #### 구분
 
 정렬
