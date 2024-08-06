@@ -56,3 +56,4 @@
   * [\[99클럽 코테 스터디 13일차 TIL\]  백준 - 숫자 카드](study/99/99-13-til.md)
   * [\[99클럽 코테 스터디 14일차 TIL\]  백준 - 숫자 카드 2](study/99/99-14-til-2.md)
   * [\[99클럽 코테 스터디 15일차 TIL\]  LeetCode - Prefix and Suffix Search](study/99/99-15-til-leetcode-prefix-and-suffix-search.md)
+  * [\[99클럽 코테 스터디 16일차 TIL\]  프로그래머스 - 모음사전](study/99/99-16-til.md)
