@@ -25,6 +25,8 @@
   * [Android 기초](category/android/android.md)
 * [Error](category/error/README.md)
   * [macOS 업데이트 후 mysql 실행 에러](category/error/macos-mysql.md)
+* [Algorithm](category/algorithm/README.md)
+  * [모듈러 산술 (Modular Arithmetic)](category/algorithm/modular-arithmetic.md)
 
 ## BOOK
 
