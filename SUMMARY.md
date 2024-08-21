@@ -68,3 +68,4 @@
   * [\[99클럽 코테 스터디 23일차 TIL\]  프로그래머스 - 마법의 엘리베이터](study/99/99-23-til.md)
   * [\[99클럽 코테 스터디 24일차 TIL\]  프로그래머스 - 대충 만든 자판](study/99/99-24-til.md)
   * [\[99클럽 코테 스터디 29일차 TIL\]  LeetCode - Longest Increasing Subsequence](study/99/99-29-til-leetcode-longest-increasing-subsequence.md)
+  * [\[99클럽 코테 스터디 31일차 TIL\]  백준 - 점프 점프](study/99/99-31-til.md)
