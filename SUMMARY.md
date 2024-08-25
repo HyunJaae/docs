@@ -5,11 +5,12 @@
 ## CATEGORY
 
 * [Java](<README (1).md>)
-  * [Functional Interface](category/java/functional-interface.md)
-  * [Overloading & Overriding](category/java/overloading-and-overriding.md)
-  * [POI Excel 인쇄 영역, 페이지 나누기 설정](category/java/poi-excel.md)
-  * [toArray 함수 호출 시 빈 배열을 전달해야 하는 이유](category/java/toarray.md)
+  * [JVM(Java Virtual Machine)](category/java/jvm-java-virtual-machine.md)
   * [System.arraycopy()](category/java/system.arraycopy.md)
+  * [toArray 함수 호출 시 빈 배열을 전달해야 하는 이유](category/java/toarray.md)
+  * [POI Excel 인쇄 영역, 페이지 나누기 설정](category/java/poi-excel.md)
+  * [Overloading & Overriding](category/java/overloading-and-overriding.md)
+  * [Functional Interface](category/java/functional-interface.md)
 * [Computer Science](category/computer-science/README.md)
   * [캐리지 리턴 문자('\r')](category/computer-science/r.md)
 * [Kotlin](category/kotlin/README.md)
