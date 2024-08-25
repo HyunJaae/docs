@@ -1,6 +1,6 @@
 # INTRO
 
-<figure><img src=".gitbook/assets/이현재 일러 오렌지 배너.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/이현재 일러 보라 배너.jpg" alt=""><figcaption></figcaption></figure>
 
 ### 안녕하세요, 개발자 이현재입니다. <a href="#id" id="id"></a>
 
